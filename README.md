@@ -7,7 +7,7 @@ Mæli með að reyna læra þessi föll vel því að þau spara þér tíma og 
 Reyni að hafa allar lýsingar á íslensku, en það er líklegt að ég sletti ensku inn á milli hér og þar.
 
 
-## Föll sem ég slepti
+## Föll sem ég sleppti
 ### Strengjaföll
 * encode
 * expand_tabs
