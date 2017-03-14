@@ -14,3 +14,5 @@ Reyni að hafa allar lýsingar á íslensku, en það er líklegt að ég sletti
 * format_map
 * isidentifer
 * ljust
+* lstrip
+* maketrans
