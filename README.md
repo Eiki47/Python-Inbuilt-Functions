@@ -13,3 +13,4 @@ Reyni að hafa allar lýsingar á íslensku, en það er líklegt að ég sletti
 * expand_tabs
 * format_map
 * isidentifer
+* ljust
